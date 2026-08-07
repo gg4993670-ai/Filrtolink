@@ -1,0 +1,6 @@
+pyrogram
+TgCrypto
+Quart
+Hypercorn
+aiohttp
+aiofiles
